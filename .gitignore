@@ -1,0 +1,6 @@
+/Temp/
+/Library/
+/Assets/Standard Assets/
+*.meta
+*.csproj
+*.sln
