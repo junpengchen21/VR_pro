@@ -63,6 +63,5 @@
 		"Obj/":true,
 		"ProjectSettings/":true,		"temp/":true,
 		"Temp/":true
-    },
-    "vsicons.presets.angular": false
+	}
 }
